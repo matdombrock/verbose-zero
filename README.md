@@ -5,6 +5,10 @@ Does not require NodeJS but works well with it.
 
 # INSTALL
 ```bash
+# stable
+npm install verbose-zero
+
+# latest
 npm install @mdombrock/verbose-zero
 ```
 # USAGE
