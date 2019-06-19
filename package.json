@@ -1,6 +1,6 @@
 {
   "name": "@mdombrock/verbose-zero",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Verbose logging tool",
   "main": "verboseZero.js",
   "scripts": {
