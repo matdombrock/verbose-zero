@@ -1,11 +1,16 @@
 {
   "name": "@mdombrock/verbose-zero",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Verbose logging tool",
   "main": "verboseZero.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mathieu Dombrock",
+  "homepage": "https://github.com/matdombrock/verbose-zero",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matdombrock/verbose-zero.git"
+  },
   "license": "GPL 3"
 }
