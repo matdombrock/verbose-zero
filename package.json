@@ -1,0 +1,11 @@
+{
+  "name": "@mdombrock/verbose-zero",
+  "version": "1.0.1",
+  "description": "Verbose logging tool",
+  "main": "verboseZero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mathieu Dombrock",
+  "license": "GPL 3"
+}
