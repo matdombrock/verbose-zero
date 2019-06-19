@@ -1,4 +1,4 @@
-# verbose-zero
+# VERBOSE-ZERO
 A simple, dependency-free verbose Javascript logging tool.
 
 # INSTALL
