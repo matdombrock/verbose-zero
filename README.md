@@ -1,6 +1,8 @@
 # VERBOSE-ZERO
 A simple, dependency-free verbose Javascript logging tool.
 
+Does not require NodeJS but works well with it.
+
 # INSTALL
 ```bash
 npm install @mdombrock/verbose-zero
