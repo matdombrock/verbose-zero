@@ -16,3 +16,11 @@ v.log("This is a message");
 //log multiple messages with one line by sending an array to logm()
 v.logm(["This is a multi part message",Date.now()]);
 ```
+# TOGGLING VERBOSE OUTPUT
+Verbose logging is on by default. You can disable or re-enable it at run-time.
+```js
+//disable verbose logging
+v.disable();
+//re-enable verbose logging
+v.enable();
+```
